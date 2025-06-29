@@ -6,7 +6,7 @@
 
 ## 🚀 Live Demo
 
-👉 [Live App](https://github.com/muhdzaheermv/restaurent-react-website)
+👉 [Live App](https://muhdzaheermv.github.io/ev-olution-car-landing-reactjs/)
 
 ## 🛠️ Tech Stack
 
