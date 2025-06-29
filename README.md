@@ -1,6 +1,6 @@
 # ⚡ EV-olution - Electric Vehicle Landing Page
 
-![Homepage](./src/assets/images/ev-olution.png)
+![Homepage](./src/ev-olution.png)
 
 **EV-olution** is a sleek, modern, and fully responsive electric vehicle website landing page built with **ReactJS**. Perfect for showcasing front-end skills, product design layouts, and mobile responsiveness.
 
