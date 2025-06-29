@@ -6,7 +6,7 @@
 
 ## 🚀 Live Demo
 
-👉 [Live App](https://muhdzaheermv.github.io/ev-olution/)
+👉 [Live App](https://github.com/muhdzaheermv/restaurent-react-website)
 
 ## 🛠️ Tech Stack
 
