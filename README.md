@@ -1,8 +1,44 @@
-# React + Vite
+# ⚡ EV-olution - Electric Vehicle Landing Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![Homepage](./src/assets/images/ev-olution.png)
 
-Currently, two official plugins are available:
+**EV-olution** is a sleek, modern, and fully responsive electric vehicle website landing page built with **ReactJS**. Perfect for showcasing front-end skills, product design layouts, and mobile responsiveness.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Live Demo
+
+👉 [Live App](https://muhdzaheermv.github.io/ev-olution/)
+
+## 🛠️ Tech Stack
+
+- **ReactJS**
+- **JavaScript (ES6+)**
+- **CSS3**
+- **Responsive Design Techniques**
+
+## ✨ Features
+
+- Full landing page with modern EV theme
+- Fully responsive for all devices
+- Reusable React components
+- Smooth scrolling and section transitions
+- Clean UI/UX
+
+
+
+## 📚 Ideal For
+
+- Front-End Portfolio Showcase
+- ReactJS Developers
+- Product/Brand Landing Pages
+- Responsive Web Design Practice
+
+## 📫 Contact Me
+
+- **📧 Email:** muhdzaheermv@gmail.com  
+- **🔗 Portfolio:** [https://portfolio-lilac-eight-60.vercel.app/](https://portfolio-lilac-eight-60.vercel.app/)  
+- **💼 LinkedIn:** [https://www.linkedin.com/in/muhammed-zaheer-836132244/](https://www.linkedin.com/in/muhammed-zaheer-836132244/)
+
+## ⭐ Like This Project?
+
+If you enjoyed this landing page or found it inspiring, don’t forget to **⭐ star** this repository — your support means a lot and keeps me building!
+
